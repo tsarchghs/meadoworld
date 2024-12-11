@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/eliza/MeadoworldMono/Content/gameFont.spritefont","/home/eliza/MeadoworldMono/Content/bin/DesktopGL/Content/gameFont.xnb","FontDescriptionProcessor","SpriteFontContent",591,44043,0.2125909
+"/home/eliza/MeadoworldMono/Content/kenney/Navigation/nav_path.png","/home/eliza/MeadoworldMono/Content/bin/DesktopGL/Content/kenney/Navigation/nav_path.xnb","TextureProcessor","Texture2DContent",116,1109,0.0021267
+"/home/eliza/MeadoworldMono/Content/kenney/Navigation/nav_select.png","/home/eliza/MeadoworldMono/Content/bin/DesktopGL/Content/kenney/Navigation/nav_select.xnb","TextureProcessor","Texture2DContent",109,1109,0.1859881
+"/home/eliza/MeadoworldMono/Content/kenney/Navigation/nav_target.png","/home/eliza/MeadoworldMono/Content/bin/DesktopGL/Content/kenney/Navigation/nav_target.xnb","TextureProcessor","Texture2DContent",144,1109,0.0020635
+"/home/eliza/MeadoworldMono/Content/kenney/Navigation/nav_waypoint.png","/home/eliza/MeadoworldMono/Content/bin/DesktopGL/Content/kenney/Navigation/nav_waypoint.xnb","TextureProcessor","Texture2DContent",132,1109,0.0026858
+"/home/eliza/MeadoworldMono/Content/kenney/world_map.png","/home/eliza/MeadoworldMono/Content/bin/DesktopGL/Content/kenney/world_map.xnb","TextureProcessor","Texture2DContent",206365,10240085,0.3374554

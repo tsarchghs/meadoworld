@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/home/eliza/MeadoworldMono/Content/kenney/Navigation/nav_select.png</File>
+    <File>/home/eliza/MeadoworldMono/Content/kenney/world_map.png</File>
+    <File>/home/eliza/MeadoworldMono/Content/kenney/Navigation/nav_target.png</File>
+    <File>/home/eliza/MeadoworldMono/Content/kenney/Navigation/nav_waypoint.png</File>
+    <File>/home/eliza/MeadoworldMono/Content/kenney/Navigation/nav_path.png</File>
+    <File>/home/eliza/MeadoworldMono/Content/gameFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
