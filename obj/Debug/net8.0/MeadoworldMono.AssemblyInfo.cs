@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeadoworldMono")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5341ffbe5e92aa0f5c42fb24cf5b2634630a77ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeadoworldMono")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeadoworldMono")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
